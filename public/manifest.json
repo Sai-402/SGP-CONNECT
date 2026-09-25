@@ -1,0 +1,17 @@
+{
+  "short_name": "SGP Connect",
+  "name": "SGP Connect — Sanjay Gandhi Polytechnic Digital Campus",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192' fill='%232563EB'><rect width='192' height='192' rx='36' fill='%230F172A'/><path d='M96 28L20 72l76 43 64-36.2V136h16V72L96 28zm0 102.5l-44-24.9v35.1c0 16.8 20.4 30.4 44 30.4s44-13.6 44-30.4v-35.1l-44 24.9z' fill='%2338BDF8'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0F172A",
+  "theme_color": "#2563EB",
+  "display": "standalone",
+  "orientation": "portrait"
+}
